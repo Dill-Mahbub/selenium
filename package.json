@@ -1,0 +1,15 @@
+{
+  "name": "selenium",
+  "version": "1.0.0",
+  "description": "This is selenium basic projects",
+  "license": "ISC",
+  "author": "Mahbub",
+  "type": "module",
+  "main": "base.js",
+  "scripts": {
+    "test": "node base.js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.51.0"
+  }
+}
